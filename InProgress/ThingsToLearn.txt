@@ -1,0 +1,4 @@
+Things to learn:
+1- Euclid's Algo
+2- Greedy Algo
+3- Rest of the Data structures
